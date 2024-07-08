@@ -10,7 +10,6 @@ on:
       - jenk
   workflow_dispatch:
   
-name: Continuous Integration
 
 jobs:
   my_first_job:
